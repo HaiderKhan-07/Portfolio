@@ -29,7 +29,7 @@ This site highlights my **projects, skills, and experiences** as a Computer Scie
 ---
 
 ## 🚀 Live Demo  
-🔗 [View Portfolio](https://haiderkhan777.github.io/Portfolio)  
+🔗 [View Portfolio](https://HaiderKhan-07.github.io/Portfolio)  
 
 ---
 
